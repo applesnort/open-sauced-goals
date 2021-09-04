@@ -1,9 +1,9 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 9415,
-    "open_issues_count": 152,
-    "forks_count": 2709
+    "stargazers_count": 9420,
+    "open_issues_count": 150,
+    "forks_count": 2713
   },
   {
     "full_name": "piotrmurach/tty-prompt",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "sferik/twitter",
-    "stargazers_count": 4383,
+    "stargazers_count": 4385,
     "open_issues_count": 150,
     "forks_count": 1227
   },
@@ -49,31 +49,31 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 5974,
+    "stargazers_count": 5978,
     "open_issues_count": 106,
     "forks_count": 346
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 31815,
-    "open_issues_count": 0,
-    "forks_count": 7299
+    "stargazers_count": 31891,
+    "open_issues_count": 1,
+    "forks_count": 7307
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 11467,
-    "open_issues_count": 1,
-    "forks_count": 12623
+    "stargazers_count": 11466,
+    "open_issues_count": 0,
+    "forks_count": 12637
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 10694,
-    "open_issues_count": 11,
-    "forks_count": 911
+    "stargazers_count": 10693,
+    "open_issues_count": 9,
+    "forks_count": 910
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
-    "stargazers_count": 714,
+    "stargazers_count": 713,
     "open_issues_count": 3,
     "forks_count": 92
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "rails-sqlserver/activerecord-sqlserver-adapter",
-    "stargazers_count": 927,
+    "stargazers_count": 928,
     "open_issues_count": 25,
-    "forks_count": 546
+    "forks_count": 545
   },
   {
     "full_name": "rubygems/bundler",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 10543,
-    "open_issues_count": 12286,
-    "forks_count": 119242
+    "stargazers_count": 10548,
+    "open_issues_count": 12300,
+    "forks_count": 119282
   }
 ]
