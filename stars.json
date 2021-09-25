@@ -1,9 +1,9 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 9441,
-    "open_issues_count": 153,
-    "forks_count": 2718
+    "stargazers_count": 9447,
+    "open_issues_count": 152,
+    "forks_count": 2722
   },
   {
     "full_name": "piotrmurach/tty-prompt",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "sferik/twitter",
-    "stargazers_count": 4386,
+    "stargazers_count": 4387,
     "open_issues_count": 151,
     "forks_count": 1228
   },
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 5992,
+    "stargazers_count": 5996,
     "open_issues_count": 106,
     "forks_count": 347
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 32244,
+    "stargazers_count": 32347,
     "open_issues_count": 0,
-    "forks_count": 7376
+    "forks_count": 7395
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 11586,
+    "stargazers_count": 11582,
     "open_issues_count": 0,
     "forks_count": 12749
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 10787,
+    "stargazers_count": 10785,
     "open_issues_count": 8,
-    "forks_count": 923
+    "forks_count": 924
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "rubygems/bundler",
-    "stargazers_count": 4850,
+    "stargazers_count": 4851,
     "open_issues_count": 0,
-    "forks_count": 2108
+    "forks_count": 2109
   },
   {
     "full_name": "avdgaag/nanoc-template",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 10555,
-    "open_issues_count": 12359,
-    "forks_count": 119566
+    "stargazers_count": 10554,
+    "open_issues_count": 12372,
+    "forks_count": 119610
   }
 ]
