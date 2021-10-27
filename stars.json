@@ -1,9 +1,9 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 9483,
-    "open_issues_count": 157,
-    "forks_count": 2755
+    "stargazers_count": 9492,
+    "open_issues_count": 155,
+    "forks_count": 2760
   },
   {
     "full_name": "piotrmurach/tty-prompt",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "sferik/twitter",
-    "stargazers_count": 4392,
+    "stargazers_count": 4395,
     "open_issues_count": 152,
     "forks_count": 1229
   },
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 6038,
+    "stargazers_count": 6044,
     "open_issues_count": 107,
-    "forks_count": 347
+    "forks_count": 348
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 32862,
+    "stargazers_count": 32923,
     "open_issues_count": 0,
-    "forks_count": 7533
+    "forks_count": 7543
   },
   {
     "full_name": "lewagon/dotfiles",
     "stargazers_count": 12499,
     "open_issues_count": 0,
-    "forks_count": 13686
+    "forks_count": 13685
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 11440,
+    "stargazers_count": 11438,
     "open_issues_count": 9,
-    "forks_count": 973
+    "forks_count": 975
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "kamens/jQuery-menu-aim",
-    "stargazers_count": 7727,
+    "stargazers_count": 7728,
     "open_issues_count": 67,
     "forks_count": 1141
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "rubygems/bundler",
-    "stargazers_count": 4850,
+    "stargazers_count": 4851,
     "open_issues_count": 0,
-    "forks_count": 2107
+    "forks_count": 2106
   },
   {
     "full_name": "avdgaag/nanoc-template",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 10570,
-    "open_issues_count": 12476,
-    "forks_count": 119920
+    "stargazers_count": 10573,
+    "open_issues_count": 12488,
+    "forks_count": 119972
   }
 ]
