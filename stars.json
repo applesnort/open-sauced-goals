@@ -1,15 +1,15 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 9925,
-    "open_issues_count": 167,
-    "forks_count": 2848
+    "stargazers_count": 9928,
+    "open_issues_count": 165,
+    "forks_count": 2850
   },
   {
     "full_name": "piotrmurach/tty-prompt",
-    "stargazers_count": 1305,
-    "open_issues_count": 11,
-    "forks_count": 131
+    "stargazers_count": 1308,
+    "open_issues_count": 12,
+    "forks_count": 132
   },
   {
     "full_name": "tminard/carnivores-ce-renderer",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "sferik/twitter",
-    "stargazers_count": 4406,
+    "stargazers_count": 4407,
     "open_issues_count": 153,
     "forks_count": 1242
   },
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 6228,
-    "open_issues_count": 120,
-    "forks_count": 352
+    "stargazers_count": 6229,
+    "open_issues_count": 121,
+    "forks_count": 353
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 36805,
+    "stargazers_count": 37021,
     "open_issues_count": 1,
-    "forks_count": 8369
+    "forks_count": 8391
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 13497,
+    "stargazers_count": 13496,
     "open_issues_count": 0,
-    "forks_count": 14811
+    "forks_count": 14812
   },
   {
     "full_name": "lewagon/setup",
     "stargazers_count": 12174,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 1111
   },
   {
@@ -99,7 +99,7 @@
     "full_name": "rubygems/bundler",
     "stargazers_count": 4850,
     "open_issues_count": 0,
-    "forks_count": 2104
+    "forks_count": 2108
   },
   {
     "full_name": "avdgaag/nanoc-template",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 10912,
-    "open_issues_count": 14428,
-    "forks_count": 124884
+    "stargazers_count": 10919,
+    "open_issues_count": 14438,
+    "forks_count": 124995
   }
 ]
