@@ -1,13 +1,13 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 9950,
+    "stargazers_count": 9961,
     "open_issues_count": 166,
-    "forks_count": 2854
+    "forks_count": 2856
   },
   {
     "full_name": "piotrmurach/tty-prompt",
-    "stargazers_count": 1308,
+    "stargazers_count": 1309,
     "open_issues_count": 12,
     "forks_count": 132
   },
@@ -39,7 +39,7 @@
     "full_name": "atymic/mylot-article-scraper",
     "stargazers_count": 25,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "bradtraversy/ui_components",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 6240,
+    "stargazers_count": 6249,
     "open_issues_count": 121,
-    "forks_count": 354
+    "forks_count": 355
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 37689,
+    "stargazers_count": 37744,
     "open_issues_count": 1,
-    "forks_count": 8481
+    "forks_count": 8498
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 13479,
+    "stargazers_count": 13519,
     "open_issues_count": 0,
-    "forks_count": 14839
+    "forks_count": 14913
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 12160,
+    "stargazers_count": 12193,
     "open_issues_count": 8,
-    "forks_count": 1117
+    "forks_count": 1124
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
@@ -92,14 +92,14 @@
   {
     "full_name": "rails-sqlserver/activerecord-sqlserver-adapter",
     "stargazers_count": 937,
-    "open_issues_count": 37,
+    "open_issues_count": 38,
     "forks_count": 557
   },
   {
     "full_name": "rubygems/bundler",
-    "stargazers_count": 4850,
+    "stargazers_count": 4849,
     "open_issues_count": 0,
-    "forks_count": 2109
+    "forks_count": 2110
   },
   {
     "full_name": "avdgaag/nanoc-template",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 10951,
-    "open_issues_count": 14488,
-    "forks_count": 125516
+    "stargazers_count": 10959,
+    "open_issues_count": 14503,
+    "forks_count": 125648
   }
 ]
