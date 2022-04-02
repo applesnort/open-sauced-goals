@@ -1,13 +1,13 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 9961,
-    "open_issues_count": 166,
-    "forks_count": 2856
+    "stargazers_count": 9965,
+    "open_issues_count": 167,
+    "forks_count": 2858
   },
   {
     "full_name": "piotrmurach/tty-prompt",
-    "stargazers_count": 1309,
+    "stargazers_count": 1310,
     "open_issues_count": 12,
     "forks_count": 132
   },
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 6249,
+    "stargazers_count": 6251,
     "open_issues_count": 121,
     "forks_count": 355
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 37744,
-    "open_issues_count": 1,
-    "forks_count": 8498
+    "stargazers_count": 37817,
+    "open_issues_count": 2,
+    "forks_count": 8508
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 13519,
+    "stargazers_count": 13517,
     "open_issues_count": 0,
-    "forks_count": 14913
+    "forks_count": 14933
   },
   {
     "full_name": "lewagon/setup",
     "stargazers_count": 12193,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 1124
   },
   {
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 10959,
-    "open_issues_count": 14503,
-    "forks_count": 125648
+    "stargazers_count": 10965,
+    "open_issues_count": 14513,
+    "forks_count": 125754
   }
 ]
