@@ -1,15 +1,15 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 9973,
-    "open_issues_count": 166,
-    "forks_count": 2861
+    "stargazers_count": 9983,
+    "open_issues_count": 168,
+    "forks_count": 2866
   },
   {
     "full_name": "piotrmurach/tty-prompt",
     "stargazers_count": 1314,
     "open_issues_count": 12,
-    "forks_count": 132
+    "forks_count": 131
   },
   {
     "full_name": "tminard/carnivores-ce-renderer",
@@ -20,8 +20,8 @@
   {
     "full_name": "sferik/twitter",
     "stargazers_count": 4415,
-    "open_issues_count": 153,
-    "forks_count": 1244
+    "open_issues_count": 154,
+    "forks_count": 1245
   },
   {
     "full_name": "davidteren/rails_6_github_template",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "davidteren/rails61-tailwind2",
-    "stargazers_count": 9,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 6263,
-    "open_issues_count": 121,
-    "forks_count": 355
+    "stargazers_count": 6272,
+    "open_issues_count": 122,
+    "forks_count": 356
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 38048,
-    "open_issues_count": 1,
-    "forks_count": 8563
+    "stargazers_count": 38091,
+    "open_issues_count": 2,
+    "forks_count": 8572
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 14068,
+    "stargazers_count": 14091,
     "open_issues_count": 0,
-    "forks_count": 15508
+    "forks_count": 15594
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 12562,
+    "stargazers_count": 12564,
     "open_issues_count": 7,
-    "forks_count": 1149
+    "forks_count": 1158
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "kamens/jQuery-menu-aim",
-    "stargazers_count": 7720,
+    "stargazers_count": 7722,
     "open_issues_count": 67,
     "forks_count": 1139
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "rails-sqlserver/activerecord-sqlserver-adapter",
-    "stargazers_count": 939,
+    "stargazers_count": 938,
     "open_issues_count": 37,
     "forks_count": 558
   },
   {
     "full_name": "rubygems/bundler",
-    "stargazers_count": 4848,
+    "stargazers_count": 4847,
     "open_issues_count": 0,
-    "forks_count": 2109
+    "forks_count": 2110
   },
   {
     "full_name": "avdgaag/nanoc-template",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 10980,
-    "open_issues_count": 14537,
-    "forks_count": 126002
+    "stargazers_count": 10984,
+    "open_issues_count": 14541,
+    "forks_count": 126044
   }
 ]
