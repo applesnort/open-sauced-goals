@@ -1,13 +1,13 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 10056,
-    "open_issues_count": 166,
-    "forks_count": 2873
+    "stargazers_count": 10060,
+    "open_issues_count": 167,
+    "forks_count": 2877
   },
   {
     "full_name": "piotrmurach/tty-prompt",
-    "stargazers_count": 1324,
+    "stargazers_count": 1325,
     "open_issues_count": 14,
     "forks_count": 132
   },
@@ -21,7 +21,7 @@
     "full_name": "sferik/twitter",
     "stargazers_count": 4428,
     "open_issues_count": 154,
-    "forks_count": 1252
+    "forks_count": 1250
   },
   {
     "full_name": "davidteren/rails_6_github_template",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 6296,
+    "stargazers_count": 6302,
     "open_issues_count": 125,
     "forks_count": 359
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 40458,
-    "open_issues_count": 2,
-    "forks_count": 8930
+    "stargazers_count": 40545,
+    "open_issues_count": 3,
+    "forks_count": 8940
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 14510,
+    "stargazers_count": 14548,
     "open_issues_count": 0,
-    "forks_count": 15965
+    "forks_count": 16011
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 12856,
-    "open_issues_count": 12,
-    "forks_count": 1197
+    "stargazers_count": 12902,
+    "open_issues_count": 8,
+    "forks_count": 1201
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "kamens/jQuery-menu-aim",
-    "stargazers_count": 7712,
+    "stargazers_count": 7711,
     "open_issues_count": 67,
     "forks_count": 1137
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "rubygems/bundler",
-    "stargazers_count": 4850,
+    "stargazers_count": 4852,
     "open_issues_count": 0,
-    "forks_count": 2114
+    "forks_count": 2116
   },
   {
     "full_name": "avdgaag/nanoc-template",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 11059,
-    "open_issues_count": 14686,
-    "forks_count": 126905
+    "stargazers_count": 11067,
+    "open_issues_count": 14701,
+    "forks_count": 126962
   }
 ]
