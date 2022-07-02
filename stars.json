@@ -1,13 +1,13 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 10092,
+    "stargazers_count": 10103,
     "open_issues_count": 157,
-    "forks_count": 2890
+    "forks_count": 2897
   },
   {
     "full_name": "piotrmurach/tty-prompt",
-    "stargazers_count": 1330,
+    "stargazers_count": 1332,
     "open_issues_count": 14,
     "forks_count": 133
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "sferik/twitter",
-    "stargazers_count": 4428,
+    "stargazers_count": 4427,
     "open_issues_count": 154,
     "forks_count": 1247
   },
@@ -33,7 +33,7 @@
     "full_name": "davidteren/rails61-tailwind2",
     "stargazers_count": 8,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 3
   },
   {
     "full_name": "atymic/mylot-article-scraper",
@@ -45,31 +45,31 @@
     "full_name": "bradtraversy/ui_components",
     "stargazers_count": 477,
     "open_issues_count": 12,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "PostgresApp/PostgresApp",
-    "stargazers_count": 6334,
+    "stargazers_count": 6337,
     "open_issues_count": 125,
-    "forks_count": 363
+    "forks_count": 364
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 41102,
-    "open_issues_count": 3,
-    "forks_count": 9062
+    "stargazers_count": 41194,
+    "open_issues_count": 4,
+    "forks_count": 9085
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 14653,
+    "stargazers_count": 14650,
     "open_issues_count": 1,
-    "forks_count": 16147
+    "forks_count": 16146
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 12964,
-    "open_issues_count": 3,
-    "forks_count": 1226
+    "stargazers_count": 12961,
+    "open_issues_count": 2,
+    "forks_count": 1229
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
@@ -81,7 +81,7 @@
     "full_name": "kamens/jQuery-menu-aim",
     "stargazers_count": 7706,
     "open_issues_count": 67,
-    "forks_count": 1136
+    "forks_count": 1135
   },
   {
     "full_name": "jcoleman/JCAutocompletingSearch",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "rubygems/bundler",
-    "stargazers_count": 4850,
+    "stargazers_count": 4849,
     "open_issues_count": 0,
     "forks_count": 2115
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 11108,
-    "open_issues_count": 14783,
-    "forks_count": 127550
+    "stargazers_count": 11110,
+    "open_issues_count": 14774,
+    "forks_count": 127581
   }
 ]
