@@ -1,13 +1,13 @@
 [
   {
     "full_name": "faker-ruby/faker",
-    "stargazers_count": 10103,
-    "open_issues_count": 157,
-    "forks_count": 2897
+    "stargazers_count": 10117,
+    "open_issues_count": 158,
+    "forks_count": 2902
   },
   {
     "full_name": "piotrmurach/tty-prompt",
-    "stargazers_count": 1332,
+    "stargazers_count": 1334,
     "open_issues_count": 14,
     "forks_count": 133
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "sferik/twitter",
-    "stargazers_count": 4427,
+    "stargazers_count": 4426,
     "open_issues_count": 154,
     "forks_count": 1247
   },
@@ -45,7 +45,7 @@
     "full_name": "bradtraversy/ui_components",
     "stargazers_count": 477,
     "open_issues_count": 12,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "PostgresApp/PostgresApp",
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 41194,
-    "open_issues_count": 4,
-    "forks_count": 9085
+    "stargazers_count": 41328,
+    "open_issues_count": 2,
+    "forks_count": 9099
   },
   {
     "full_name": "lewagon/dotfiles",
-    "stargazers_count": 14650,
-    "open_issues_count": 1,
-    "forks_count": 16146
+    "stargazers_count": 14702,
+    "open_issues_count": 0,
+    "forks_count": 16224
   },
   {
     "full_name": "lewagon/setup",
-    "stargazers_count": 12961,
-    "open_issues_count": 2,
-    "forks_count": 1229
+    "stargazers_count": 13005,
+    "open_issues_count": 1,
+    "forks_count": 1236
   },
   {
     "full_name": "jamesctucker/Fantastic-Front-End-Toolbox",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "kamens/jQuery-menu-aim",
-    "stargazers_count": 7706,
+    "stargazers_count": 7705,
     "open_issues_count": 67,
     "forks_count": 1135
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "octocat/Spoon-Knife",
-    "stargazers_count": 11110,
+    "stargazers_count": 11114,
     "open_issues_count": 14774,
-    "forks_count": 127581
+    "forks_count": 127622
   }
 ]
